@@ -1,0 +1,39 @@
+.chicken > h3{
+    background-color: red;
+    padding: auto;
+    margin: auto;
+    float: right;
+    font-size: 200%;
+}
+
+section.chicken {
+    background: gray;
+    
+}
+.Beef > h3{
+    background-color: aliceblue;
+    padding: auto;
+    margin: auto;
+    float: right;
+    font-size: 200%;
+}
+section.Beef {
+    background: gray;
+    
+}
+.Sushi > h3{
+    background-color: green;
+    padding: auto;
+    margin: auto;
+    float: right;
+    font-size: 200%;
+}
+section.Sushi {
+    background: gray;
+    
+}
+
+section{
+    clear: both;
+    float: left;
+}
